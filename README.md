@@ -68,7 +68,7 @@ This tells Google: **“Send an invite email!”** 💌
 
 ## 🧹 Tip: Avoid Duplicate Events
 
-The current version does not yet check if an event already exists. So running it multiple times may create duplicates. (We're working on adding a check to prevent that.)
+Smartly avoids adding duplicate events by checking titles and dates
 
 ---
 
