@@ -1,0 +1,6 @@
+openai
+langchain
+pdfplumber
+python-dotenv
+langchain_community 
+dataparser
